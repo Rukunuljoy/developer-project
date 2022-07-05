@@ -28,6 +28,14 @@ section{
     border-radius: 10px;
 }
 .box{
-    box-shadow: 5px 10px 5px lightblue;
+    box-shadow: 5px 10px 8px lightblue;
     background-image: linear-gradient(white,gray);
+    margin: 0px;
+   
+}
+.dream-big{
+    box-shadow: 2px 2px 2px powderblue;
+    background-image: linear-gradient(rgba(97, 199, 233, 0.925),powderblue);
+    margin: 0px;
+   
 }
